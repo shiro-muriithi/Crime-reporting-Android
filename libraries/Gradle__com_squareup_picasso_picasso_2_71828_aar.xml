@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.picasso:picasso:2.71828@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/9b158ac3b0803e4e90161985d60d3259/jetified-picasso-2.71828/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/9b158ac3b0803e4e90161985d60d3259/jetified-picasso-2.71828/res" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/9b158ac3b0803e4e90161985d60d3259/jetified-picasso-2.71828/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

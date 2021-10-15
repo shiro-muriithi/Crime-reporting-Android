@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth:20.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/8d1e4e29eb7aa2a8738ca13aa34307ef/jetified-firebase-auth-20.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/8d1e4e29eb7aa2a8738ca13aa34307ef/jetified-firebase-auth-20.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/8d1e4e29eb7aa2a8738ca13aa34307ef/jetified-firebase-auth-20.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
